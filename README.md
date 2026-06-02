@@ -157,19 +157,19 @@ http://localhost:5173
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-## Home Interface
+### 🏠 Home Interface
 
-(Add Screenshot Here)
+![Home Interface](./UI%20Screenshots/UI_SS.png)
 
-## Fake Review Detection
+### ❌ Fake Review Detection
 
-(Add Screenshot Here)
+![Fake Review Detection](./UI%20Screenshots/UI_SS1.png)
 
-## Genuine Review Detection
+### ✅ Genuine Review Detection
 
-(Add Screenshot Here)
+![Genuine Review Detection](./UI%20Screenshots/UI_SS2.png)
 
 ---
 
